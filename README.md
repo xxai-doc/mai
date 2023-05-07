@@ -2,9 +2,9 @@
 
 * [वेबसाइट बहुभाषी दस्तावेजीकरण](https://github.com/xxai-doc)
 
-वेबसाइट केरऽ फ्रंट-एंड कोड ओपन सोर्स छै, अनुवाद क॑ अनुकूलित करै म॑ मदद करै लेली स्वागत छै
+वेबसाइट केरऽ फ्रंटएंड कोड ओपन सोर्स छै, अनुवाद क॑ अनुकूलित करै म॑ मदद करै लेली स्वागत छै
 
-* [फ्रंट-एंड कोड](https://github.com/xxai-art/web)
+* [फ्रंटएंड कोड](https://github.com/xxai-art/web)
 * [समग्र रूप स साइट क लेल भाषा पैक](https://github.com/xxai-art/web/tree/main/i18n)
 * [लॉगिन मॉड्यूल क लेल भाषा पैक](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [वेबसाइट बहुभाषी दस्तावेजीकरण](https://github.com/xxai-doc)
